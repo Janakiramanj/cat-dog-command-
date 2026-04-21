@@ -1,0 +1,10 @@
+Hello kernel 
+Nutshell Handbook, the Nutshell Handbook logo, and the O’Reilly logo are registered trademarks of O’Reilly
+Media, Inc. Linux System Programming, Second Edition, the image of a man in a flying machine, and related
+trade dress are trademarks of O’Reilly Media, Inc.
+Many of the designations used by manufacturers and sellers to distinguish their products are claimed as
+trademarks. Where those designations appear in this book, and O’Reilly Media, Inc., was aware of a trade
+mark claim, the designations have been printed in caps or initial caps.
+While every precaution has been taken in the preparation of this book, the publisher and author assume no
+responsibility for errors or omissions, or for damages resulting from the use of the information contained
+herein.
